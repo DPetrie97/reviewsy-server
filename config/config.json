@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Tericka123!",
+    "database": "reviewsy",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres",
+    "seederStorage": "sequelize",
+    "seederStorageTableName": "sequelize_data"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Tericka123!",
+    "database": "reviewsy",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres",
+    "seederStorage": "sequelize",
+    "seederStorageTableName": "sequelize_data"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Tericka123!",
+    "database": "reviewsy",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres",
+    "seederStorage": "sequelize",
+    "seederStorageTableName": "sequelize_data"
+  }
+}
